@@ -86,10 +86,10 @@ WSGI_APPLICATION = 'Finder1.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'finderdata',
-        'USER': 'nas',
-        'PASSWORD': 'password',
-        'HOST': 'localhost',
+        'NAME': 'finderdatabase',
+        'USER': 'nesru',
+        'PASSWORD': 'AYfL1sxt9KJEzkof1gePLsMVPg6O0Qdm',
+        'HOST': 'dpg-chn02du7avj3o34a6nog-a',
         'PORT': '',
     }
 }
